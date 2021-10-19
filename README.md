@@ -1,0 +1,1 @@
+# Projeto de estudo do curso Guia do programador - projeto faz um CRUD completo em painel administrativo com as tecnologias Node.js (Backend) e EJS Template Engine gerando páginas estáticas (Frontend), Mysql( usando Sequilize para integração com mysql via JS)
